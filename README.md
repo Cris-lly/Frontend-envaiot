@@ -1,26 +1,9 @@
-<h1>Atividade estágio ETICE</h1>
 
----
+# EnvAIoT
 
-<h3>Índice</h3>
-
-- [Introdução](#introdução)
-- [Descrição](#descrição)
-- [Dicas](#dicas)
-- [Tarefas](#tarefas)
-- [Conteúdo auxiliar](#conteúdo-auxiliar)
-  - [Git](#git)
-    - [Configurando o GitHub para aceitar seus pushs e pulls](#configurando-o-github-para-aceitar-seus-pushs-e-pulls)
-    - [Clonando um repositório](#clonando-um-repositório)
-    - [Mudando de branch](#mudando-de-branch)
-    - [Fazendo commit](#fazendo-commit)
-    - [Subindo as alterações para o remote](#subindo-as-alterações-para-o-remote)
-    - [Mesclando as alterações no GitHub](#mesclando-as-alterações-no-github)
-    - [Atualizando o repositório local com o remote](#atualizando-o-repositório-local-com-o-remote)
-    - [Excluindo branches](#excluindo-branches)
-- [Prazos](#prazos)
-
----
+No contexto de smart homes, onde dispositivos de uma casa estão conectados, podem haver situacões nas quais um conjunto de componentes independentes devem colaborar para atingir um objetivo em comum, formando um Sistema-de-Sistemas (SoS). Nesse contexto, podem haver componentes resistentes a mudanças que não atendem aos seus requisitos locais e ao requisito global do SoS. Neste projeto será criado um frontend para a API responsável por verificar essas interações entre os dispositivos.
+ 
+ --- 
 
 ### Introdução
 
