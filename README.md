@@ -1,10 +1,3 @@
-
-# EnvAIoT
-
-No contexto de smart homes, onde dispositivos de uma casa estão conectados, podem haver situacões nas quais um conjunto de componentes independentes devem colaborar para atingir um objetivo em comum, formando um Sistema-de-Sistemas (SoS). Nesse contexto, podem haver componentes resistentes a mudanças que não atendem aos seus requisitos locais e ao requisito global do SoS. Neste projeto será criado um frontend para a API responsável por verificar essas interações entre os dispositivos.
- 
- --- 
-
 ### Introdução
 
 Esta é uma atividade que objetiva o treino e fixação de conteúdos básicos de Git e Desenvolvimento Web.
