@@ -58,7 +58,7 @@ Esta atividade consiste na prática de comandos Git, que visa o desenvolvimento 
 
 - [ ] Nesta branch, crie um arquivo dentro da pasta components chamado `HelloWorld.js`. Obs: **se atentar a padrão de nomenclatura, para reforçar as boas práticas no nosso desenvolvimento**. Lembre-se sempre de fazer um pull na sua branch local antes de criar qualquer branch, para ter certeza que está atualizada.
 
-- [ ] Em `HelloWorld.js` implemente o protótipo mostrado na imagem `images/prototipo.png`.
+- [ ] Em `HelloWorld.js` implemente a função que imprimirá "hello world!". Conteúdo que poderá auxiliar: https://youtu.be/-wrsG0IGc-M
 
 - [ ] Faça um commit com uma mensagem explicativa e, então, um push no remote do seu fork.
 
