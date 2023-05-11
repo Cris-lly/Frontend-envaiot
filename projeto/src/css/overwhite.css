@@ -1,0 +1,57 @@
+.bg-primary {
+    background-color: #0A2640 !important;
+}
+
+.bg-secondary {
+    background-color: #364D62 !important;
+}
+
+.nav-link {
+    margin: 0.60%;
+    color: #fff;
+    text-decoration: none;
+    transition: none;
+}
+.nav-link.active{
+    color: #fff;
+}
+.nav-link:hover, .nav-link:focus {
+    color: var(--bs-nav-link-hover-color);
+    background-color: #65E4A3;
+    border-radius: 15px;
+}
+.navbar-toggler {
+    
+    color: #65E4A3;
+    background-color: transparent;
+    border: var(--bs-border-width) solid #fff;
+    border-radius: var(--bs-navbar-toggler-border-radius);
+    transition: var(--bs-navbar-toggler-transition);
+}
+.navbar-toggler-icon {  
+    background-image: url("data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 30 30%27%3e%3cpath stroke=%27rgba%28255, 255, 255, 0.55%29%27 stroke-linecap=%27round%27 stroke-miterlimit=%2710%27 stroke-width=%272%27 d=%27M4 7h22M4 15h22M4 23h22%27/%3e%3c/svg%3e");
+  }
+
+  .btn {
+    
+    --bs-btn-padding-x: 2.7rem;
+    --bs-btn-padding-y: 0.45rem;
+    border-radius: 1.2rem;
+}
+.btn-outline-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-border-color: #fff;
+    --bs-btn-hover-color: #000;
+    --bs-btn-hover-bg: #fff;
+    --bs-btn-hover-border-color: #65E4A3;
+    --bs-btn-focus-shadow-rgb: 13,110,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #fff;
+    --bs-btn-active-border-color: #fff;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #fff;
+    --bs-gradient: none;
+    
+}
